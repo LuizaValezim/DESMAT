@@ -60,4 +60,4 @@ if pergunta == "raio atômico":
     if estrutura == "CCC":
         a = ((n*A*3*math.sqrt(3))/(avogadro*phi*64))**(1/3)
 
-    print("O raio atômico é de {0}".format(a))
+    print("O raio atômico é de {0} m".format(a))
